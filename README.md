@@ -4,7 +4,7 @@ Simple configuration load and save for JSON configuration files
 
 ## Install
 
-go get github.com/jeremythings/go-config/config
+go get github.com/jeremythings/go_config/config
 
 ## Use
 
