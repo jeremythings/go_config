@@ -1,0 +1,9 @@
+{
+    "database": {
+        "dbpath": "/tmp/fsdb"
+    },
+    "identity": {
+        "sourcename": "jeremy",
+        "sourceid": "12345678"
+    }
+}
